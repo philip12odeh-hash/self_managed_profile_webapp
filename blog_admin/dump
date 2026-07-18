@@ -1,0 +1,47 @@
+	//$hashed_password = "Dr.LikiTaOne";
+		
+		//$hashed_password = password_hash($hashed_password,PASSWORD_DEFAULT);
+		//connect to database and retrieve stored password
+	/*if(@$conn = MYSQLI_CONNECT("localhost","root","mouse","blog_admin")){
+		
+		$sql= "SELECT password FROM authentication WHERE ID = 1";
+		if($result = MYSQLI_QUERY($conn,$sql)){
+			if(MYSQLI_NUM_ROWS($result)>0){
+				$row = MYSQLI_FETCH_ARRAY($result,MYSQLI_NUM);
+				
+			echo $user_supplied_password = $password;
+			echo "<br>".$db_supplied_password = $row[0];
+			if(password_verify($user_supplied_password,$db_supplied_password)){
+				echo "password Matched";
+			}else{
+				echo "password incorrect try agian";
+			}
+			}else{
+				echo "nothing was returned from query";
+			}
+			
+		 
+		 
+		}else{
+			echo "query Error";
+		}
+		
+		
+	}else{
+		echo '<script language="javascript">';
+	echo 'alert("WELCOME BACK DR. LIKITA ")';
+	echo '</script>';
+	die();
+	}*/
+	
+	
+	$pass = "dr.likitaone";
+$password ="Dr.LikitaOne";
+$password = trim($password);
+$password = htmlentities($password);
+$password_hashed = password_hash("Dr.LikitaOne",PASSWORD_DEFAULT);
+if(password_verify($pass,$password_hashed)){
+	echo "password correct";
+}else{
+	echo "password incorrect or did not match";
+}
