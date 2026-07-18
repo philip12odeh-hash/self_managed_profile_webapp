@@ -1,0 +1,1 @@
+alert("now you can edit your page");
