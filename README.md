@@ -47,15 +47,8 @@ To get started with this ecommerce web app, follow the steps below:
   - click login to add, edit and delete blogs
   - enter admin password (Dr.LikiTaOne).
 
-- Comment Section:
-  - Users can leave feedback and comments on product description pages.
-
-- Seller Information:
-  - Product descriptions display seller information.
-
-- Admin Interface:
-  - The admin has a dedicated interface to manage seller accounts, products, and comments.
-  - Admin approval is required for new seller registrations and product postings.
+-Note:
+   - there are some broken links which will not be difficult to fix go ahead and fix them to make everything work perfectly for you. the major work has been done.
 
 ## Contributing
 
