@@ -36,10 +36,10 @@ To get started with this ecommerce web app, follow the steps below:
 ## Features
 
 - Edit the Home page to reflect your personal data
-   scroll down to buttom of the page
-   click login adn enter the password for admin (Dr.LikiTaOne)
-  the whole page become editable click the sections and make changes
-  click update changes after every change.
+   - scroll down to buttom of the page
+    - click login adn enter the password for admin (Dr.LikiTaOne)
+  - the whole page become editable click the sections and make changes
+  - click update changes after every change.
      
 
 - Product Listing:
