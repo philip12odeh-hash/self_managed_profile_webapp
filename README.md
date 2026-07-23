@@ -22,7 +22,7 @@ To get started with this ecommerce web app, follow the steps below:
    - Import the database file into your MySQL server using a tool like phpMyAdmin or the MySQL command line.
 
 3. Configure the database connection:
-   - Open the `config.php` file in the project folder.
+   - Open the `\blog_admin\includes\dbcon.php` file in the project folder.
    - Update the database credentials (hostname, username, password, and database name) to match your local setup.
 
 4. Start the web server:
@@ -35,9 +35,12 @@ To get started with this ecommerce web app, follow the steps below:
 
 ## Features
 
-- User Registration:
-  - Visitors can register as sellers to post products for sale.
-  - Sellers must wait for admin confirmation before they can start posting products.
+- Edit the Home page to reflect your personal data
+   scroll down to button of the page
+   click login adn enter the password for admin (Dr.LikiTaOne)
+  the whole page become editable click the sections and make changes
+  click update changes after every change.
+     
 
 - Product Listing:
   - Visitors can browse and view a list of available products.
