@@ -18,7 +18,7 @@ To get started with this ecommerce web app, follow the steps below:
 1. Clone the repository or download the source code.
 
 2. Import the database into your local MySQL server:
-   - Locate the database file (`database.sql`) in the project folder.
+   - Locate the database file (`cms_blog.sql`) in the project folder.
    - Import the database file into your MySQL server using a tool like phpMyAdmin or the MySQL command line.
 
 3. Configure the database connection:
