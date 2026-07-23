@@ -42,9 +42,10 @@ To get started with this ecommerce web app, follow the steps below:
   - click update changes after every change.
      
 
-- Product Listing:
-  - Visitors can browse and view a list of available products.
-  - Each product has a description page with detailed information.
+- bloging:
+  - scroll to blog and click block
+  - click login to add, edit and delete blogs
+  - enter admin password (Dr.LikiTaOne).
 
 - Comment Section:
   - Users can leave feedback and comments on product description pages.
