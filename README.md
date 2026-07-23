@@ -1,4 +1,4 @@
-a self manage profile website and bloging site
+A self managed profile website and bloging site
 # Profile Management Web App
 
 this is a completely self manageable profile website with bloging. the user can edit and modify any part of the website with their own custom informations.
@@ -37,8 +37,8 @@ To get started with this ecommerce web app, follow the steps below:
 
 - Edit the Home page to reflect your personal data
    - scroll down to buttom of the page
-    - click login adn enter the password for admin (Dr.LikiTaOne)
-  - the whole page become editable click the sections and make changes
+    - click login and enter the password for admin (Dr.LikiTaOne)
+  - the whole page become editable click any sections and make changes.
   - click update changes after every change.
      
 
@@ -52,7 +52,7 @@ To get started with this ecommerce web app, follow the steps below:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this ecommerce web app, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this  web app, please follow these steps:
 
 1. Fork the repository.
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact [houssammrabet5@gmail.com](mailto:houssammrabet5@gmail.com).
+For any inquiries or feedback, please contact [philip12odeh@gmail.com or 08162620931).
